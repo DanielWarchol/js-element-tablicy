@@ -2,9 +2,9 @@ let tablica = [10 , 50 , 32 , 1 , 100 ];
    
 
 
-function tab(tab1){
+function number(){
 
-  return tab1;
+  return tablica[0];
 
 }
-console.log(tab([3, 4]));
+console.log(number([tablica]));
